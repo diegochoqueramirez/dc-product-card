@@ -1,6 +1,6 @@
 # DC-Product-Card
 
-Este es un paquete de pruebas de descpliegue en NPM
+Este es un paquete de pruebas de despliegue en NPM
 
 ### Diego Choque
 
